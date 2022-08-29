@@ -15,7 +15,7 @@ documentation for instructions on using alternate license.
 1. Develop your new project!
 
 ``` shell
-git clone https://github.com/google/new-project
+git clone https://github.com/marioaldi/botgithub.git
 mkdir my-new-thing
 cd my-new-thing
 git init
